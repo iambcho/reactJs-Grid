@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactJs-Grid/static/css/main.d1b05096.chunk.css",
+    "main.js": "/reactJs-Grid/static/js/main.997406e9.chunk.js",
+    "main.js.map": "/reactJs-Grid/static/js/main.997406e9.chunk.js.map",
+    "runtime-main.js": "/reactJs-Grid/static/js/runtime-main.454908eb.js",
+    "runtime-main.js.map": "/reactJs-Grid/static/js/runtime-main.454908eb.js.map",
+    "static/js/2.cf71c74a.chunk.js": "/reactJs-Grid/static/js/2.cf71c74a.chunk.js",
+    "static/js/2.cf71c74a.chunk.js.map": "/reactJs-Grid/static/js/2.cf71c74a.chunk.js.map",
+    "index.html": "/reactJs-Grid/index.html",
+    "precache-manifest.c4122b195be385d4baeb5b809aefa270.js": "/reactJs-Grid/precache-manifest.c4122b195be385d4baeb5b809aefa270.js",
+    "service-worker.js": "/reactJs-Grid/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/reactJs-Grid/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.cf71c74a.chunk.js.LICENSE": "/reactJs-Grid/static/js/2.cf71c74a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/reactJs-Grid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454908eb.js",
+    "static/js/2.cf71c74a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.997406e9.chunk.js"
+  ]
+}
